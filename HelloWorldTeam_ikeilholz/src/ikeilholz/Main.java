@@ -6,7 +6,7 @@ public class Main {
 		
 		inga();
 		selina();
-
+		niklas();
 	}
 	
 	public static void inga(){
@@ -15,6 +15,10 @@ public class Main {
 	
 	public static void selina(){
 		System.out.println("Schöne Grüße von Selina!");
+	}
+	
+	public static void niklas(){
+		System.out.println("Grüße von Niklas! :)");
 	}
 
 }
