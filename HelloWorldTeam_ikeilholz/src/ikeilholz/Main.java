@@ -2,12 +2,14 @@ package ikeilholz;
 
 public class Main {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		inga();
 
+	}
+	
+	public static void inga(){
+		System.out.println("Schöne Grüße von Inga!");
 	}
 
 }
